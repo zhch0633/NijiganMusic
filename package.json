@@ -1,0 +1,22 @@
+{
+  "name": "nijiganmusic",
+  "version": "1.0.0",
+  "description": "nijiganmusic develop start up",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhch0633/NijiganMusic.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhch0633/NijiganMusic/issues"
+  },
+  "homepage": "https://github.com/zhch0633/NijiganMusic#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
