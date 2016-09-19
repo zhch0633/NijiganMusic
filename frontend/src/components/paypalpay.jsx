@@ -7,10 +7,6 @@ export default class PaypalPayView extends React.Component {
     constructor(props) {
         super(props);
 
-
-        //this.state.product = "1";
-        //this.state.merchant = "2";
-        //this.state.amount = "3";
         this.handleProductNameChange = this.handleProductNameChange.bind(this);
         this.handleMerchantNameChange = this.handleMerchantNameChange.bind(this);
         this.handleAmountChange = this.handleAmountChange.bind(this);
